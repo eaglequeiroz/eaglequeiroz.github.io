@@ -6,15 +6,15 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
-author-title: Full Stack Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
+author: Igor Queiroz
+author-title: System Analyst and Full Stack Developer
+gravatar: 36a4116f812ac8eb2d5c417636c8512d
+email: igor.queiroz@whosnerd.com
+twitter: eaglequeiroz
+github: eaglequeiroz
+googleplus: 
+facebook: eaglequeiroz
+linkedin: eaglequeiroz
 bio: "Brazilian developer. Game, music and technology lover.
       I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
       exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
@@ -38,89 +38,55 @@ bio: "Brazilian developer. Game, music and technology lover.
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 4
+    level: 5
   - name: CSS 3
     level: 4
   - name: JavaScript
-    level: 4
+    level: 5
   - name: jQuery
     level: 4
   - name: Angular
     level: 4
-  - name: Vue.js
-    level: 2
   - name: Bootstrap
-    level: 4
-  - name: Materialize CSS
-    level: 5
-  - name: LESS
-    level: 3
-  - name: SASS
-    level: 3
-  - name: Stylus
-    level: 4
-  - name: Gulp
-    level: 4
-  - name: Grunt
-    level: 3
-  - name: Bower
-    level: 3
+    level: 4  
 
 back-end:
   - name: PHP
-    level: 5
-  - name: Node.js
     level: 3
   - name: Ruby
     level: 2
   - name: Python
-    level: 2
+    level: 3
   - name: Java
-    level: 4
-  - name: COBOL
-    level: 2
+    level: 5
   - name: SQL
-    level: 4
-  - name: Lua
-    level: 2
+    level: 5
+  - name: C#
+    level: 3
 
 mobile:
   - name: Android
     level: 2
-  - name: Apache Cordova
-    level: 4
-  - name: Ionic
-    level: 4
-  - name: NativeScript
-    level: 3
 
 db:
   - name: MySQL
     level: 4
   - name: PostgreSQL
-    level: 3
-  - name: MongoDB
-    level: 4
+    level: 5
   - name: SQL Server
-    level: 2
-  - name: Oracle
-    level: 3
-  - name: Firebase
-    level: 3
-  - name: NoSQL
     level: 4
+  - name: Oracle
+    level: 4
+  - name: HQL
+    level: 5
 
 devops:
-  - name: Docker
-    level: 3
-  - name: Vagrant
-    level: 3
   - name: Jenkins
     level: 1
   - name: Git
     level: 5
   - name: Apache Maven
-    level: 3
+    level: 4
   - name: Continuous Integration
     level: 3
   - name: Continuous Delivery
@@ -128,9 +94,9 @@ devops:
 
 methodologies:
   - name: Agile Methodologies
-    level: 3
+    level: 5
   - name: Scrum
-    level: 4
+    level: 5
   - name: RUP
     level: 3
 
@@ -138,27 +104,15 @@ others:
   - name: Web Services
     level: 5
   - name: REST
-    level: 5
+    level: 4
   - name: JEE, JSF, JPA, EJB, CDI
-    level: 3
+    level: 5
   - name: iReport, Jasper Reports
     level: 2
   - name: Hibernate
     level: 3
-  - name: Grails
-    level: 2
-  - name: Symfony
-    level: 3
-  - name: Twig
-    level: 4
-  - name: Doctrine ORM
-    level: 3
-  - name: Laravel, Blade, Eloquent ORM
-    level: 5
   - name: Ruby on Rails
     level: 3
-  - name: MEAN Stack
-    level: 4
   - name: Spring
     level: 3
 
