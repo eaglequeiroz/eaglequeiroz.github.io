@@ -7,22 +7,15 @@ language: "" # language to set into html tag, default is en
 # User settings
 
 author: Igor Queiroz
-author-title: System Analyst and Full Stack Developer
+author-title: Senior Java Web Developer
 gravatar: 36a4116f812ac8eb2d5c417636c8512d
-email: igor.queiroz@whosnerd.com
+email: igorfqueirozz@gmail.com
 twitter: eaglequeiroz
 github: eaglequeiroz
 googleplus: 
 facebook: eaglequeiroz
 linkedin: eaglequeiroz
-bio: "Ambitious, tenacious, and well-accomplished Software Developer with 7+ years of experience. 
-      Expert in working with Java EE, have a vast knowledge in various technologies that are part of the variety of systems 
-      in Java for web. Armed with broad-based background and skills in the areas of providing appropriate solution to every 
-      task needed. Training and display outstanding ability to manage, plan, coordinate, implement design practices 
-      to bring significant improvements in efficiency, productivity and technical processes. Determined to implement earned 
-      skills and knowledge for the rapid growth of the prospective organization by working effectively and consistently. 
-      Motivated, alert to detail, communication with technical and business professionals, self-taught, share ideas, and 
-      opened-mind to new ways of working."
+bio: "I'm passionate about building intelligent solutions and to solve problems. Since 2008 I work with IT, acting a good part of my work experience as a Full-Stack Developer. I also had the opportunity to expand my IT knowledge by working for a full year as a Business Analyst, where I could live the whole building intelligent software process in a more strategic way and to implement the Scrum framework on a 10 Developers Team from the scratch."
 
 # Skills
 #
@@ -47,21 +40,37 @@ front-end:
     level: 4
   - name: Angular
     level: 4
+  - name: React
+    level: 4
   - name: Bootstrap
-    level: 4  
+    level: 5  
+  - name: Semantic UI
+    level: 5  
 
 back-end:
-  - name: PHP
-    level: 3
-  - name: Ruby
-    level: 2
-  - name: Python
-    level: 3
   - name: Java
     level: 5
+  - name: Java EE
+    level: 5
+  - name: Spring
+    level: 5
+  - name: JSF
+    level: 5  
+  - name: JPA
+    level: 5
+  - name: EJB 3
+    level: 5
+  - name: CDI
+    level: 5
+  - name: Hibernate
+    level: 5
+  - name: Ruby
+    level: 4
+  - name: Ruby on Rails
+    level: 4
   - name: SQL
     level: 5
-  - name: C#
+  - name: NoSQL
     level: 3
 
 mobile:
@@ -82,15 +91,17 @@ db:
 
 devops:
   - name: Jenkins
-    level: 1
+    level: 3
   - name: Git
     level: 5
-  - name: Apache Maven
-    level: 4
+  - name: Maven
+    level: 5
+   - name: Gradle
+    level: 5
   - name: Continuous Integration
     level: 3
   - name: Continuous Delivery
-    level: 2
+    level: 3
 
 methodologies:
   - name: Agile Methodologies
@@ -98,23 +109,17 @@ methodologies:
   - name: Scrum
     level: 5
   - name: RUP
-    level: 3
+    level: 4
 
 others:
   - name: Web Services
     level: 5
   - name: REST
-    level: 4
-  - name: JEE, JSF, JPA, EJB, CDI
     level: 5
-  - name: iReport, Jasper Reports
-    level: 2
-  - name: Hibernate
-    level: 3
-  - name: Ruby on Rails
-    level: 3
-  - name: Spring
-    level: 3
+  - name: iReport
+    level: 5 
+  - name: Jasper Reports
+    level: 5 
 
 # Build settings
 
