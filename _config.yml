@@ -96,7 +96,7 @@ devops:
     level: 5
   - name: Maven
     level: 5
-   - name: Gradle
+  - name: Gradle
     level: 5
   - name: Continuous Integration
     level: 3
